@@ -7,7 +7,7 @@ The course consists of labs and lectures. We will host all the labs here. The le
 ### Labs
 The planned labs are as follows:
 
-- Lab 1: Setting up EEG to record data
+- Lab 1: Getting started with EEG
 - Lab 2: Detecting event-related potentials
 - Lab 3: Steady-state visually evoked potentials
 - Lab 4: Neurofeedback
