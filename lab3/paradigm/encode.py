@@ -15,7 +15,7 @@ from drawstuff import *
 study_time = int(time.time())
 print(study_time)
 
-word_fname = '../data/words_{}.csv'.format(study_time)
+word_fname = '../data/words_latest.csv'.format(study_time)
 
 words = get_words()
 words.to_csv(word_fname)
