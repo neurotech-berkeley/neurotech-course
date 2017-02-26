@@ -1,3 +1,5 @@
+// code by Alexandre Barachant
+
 const Ganglion = require('openbci-ganglion').Ganglion;
 const ganglion = new Ganglion();
 // Construct LSL Handoff Python Shell
