@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+## code by Alexandre Barachant
 import numpy as np
 import pandas as pd
 from time import time, strftime, gmtime
