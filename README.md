@@ -9,7 +9,7 @@ The planned labs are as follows:
 
 - Lab 1: Getting started with EEG
 - Lab 2: Sensory extension
-- Lab 3: Detecting event-related potentials
+- [Lab 3: Detecting event-related potentials](lab3)
 - Lab 4: Steady-state visually evoked potentials
 - Lab 5: Neurofeedback
 - Lab 6: Detecting stress using biosignals
