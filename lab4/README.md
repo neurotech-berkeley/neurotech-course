@@ -1,4 +1,4 @@
-# Lab 3: Event Related Potentials
+# Lab 4: Neurofeedback
 
 ### Introduction
 In this lab, we will record EEG while trying to remember words, as well as later recognizing these same words among others. Hopefully, we'll be able to see the event related potentials corresponding to remembered vs not-remembered words, and possibly recognized vs not recognized words.
@@ -6,7 +6,7 @@ In this lab, we will record EEG while trying to remember words, as well as later
 ### Setup
 
 First, install the libraries:
-```
+``` bash
 npm install
 pip install -r requirements.txt
 ```
@@ -21,7 +21,17 @@ pip install -r requirements.txt
 - Have participant sit in chair in front of monitor
 - Connect to the ganglion and stream data: `node ganglion-lsl.js`
 - Run lsl-viewer to check connections and stream: `python lsl-viewer.py`
-- Start presentation list of words: `cd paradigm; python encode.py`
-- Start recording data (in separate terminal): `python lsl-record.py` 
-- Press space to start presentation
-- Finally, start recall Procedure: `cd paradigm; python recognize.py ../data/words_latest.csv`
+- Run neurofeedback: `python neurofeedback.py`
+
+When running `neurofeedback.py`, it will show a bar representing the ratio of beta (12-20Hz) to theta (4-8Hz) rhythms in all 4 electrodes.
+The goal is to increase beta while decreasing theta, which has been shown to improve symptoms of ADHD [1].
+
+You can play around with which frequency bands to use in the ratio for the bar by changing the following two variables in `neurofeedback.py`:
+
+``` python
+decrease_fs = [4, 8]
+increase_fs = [12, 20]
+```
+
+
+Arns, M., de Ridder, S., Strehl, U., Breteler, M., & Coenen, A. (2009). Efficacy of neurofeedback treatment in ADHD: the effects on inattention, impulsivity and hyperactivity: a meta-analysis. Clinical EEG and neuroscience, 40(3), 180-189. [(PDF)](http://www.bakerneuropsychology.com/files/Arns_2009_ClinEEGNeurosci_Efficacy_for_ADHD_meta-analysis.pdf)

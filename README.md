@@ -10,7 +10,7 @@ The planned labs are as follows:
 - [Lab 1: Getting started with EEG](http://docs.openbci.com/Tutorials/02-Ganglion_Getting%20Started_Guide)
 - Lab 2: Sensory extension
 - [Lab 3: Detecting event-related potentials](lab3)
-- Lab 4: Neurofeedback
+- [Lab 4: Neurofeedback](lab4)
 - Lab 5: Steady-state visually evoked potentials
 - Lab 6: Detecting stress using biosignals
 - Lab 7: Cross-brain correlations, reward using event-related potentials
