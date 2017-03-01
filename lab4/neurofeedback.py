@@ -51,10 +51,7 @@ if len(streams) == 0:
 print("Start aquiring data")
 
 
-
-
 class LSLViewer():
-
     def __init__(self, stream, fig, axes,  window, scale, dejitter=True):
         """Init"""
         self.stream = stream
@@ -85,7 +82,7 @@ class LSLViewer():
         self.fig = fig
         self.axes = axes
 
-        
+
         sns.despine(left=True)
 
         self.data = np.zeros((self.n_samples, self.n_chan))
@@ -96,11 +93,11 @@ class LSLViewer():
         self.rects = axes.bar(0, 1)
 
         # self.text = axes.
-        
+
         axes.xaxis.grid(False)
         axes.set_xticks([])
         self.value = None
-        
+
         self.display_every = int(refresh / (12/self.sfreq))
 
         self.bf1, self.af1 = butter(4, np.array(decrease_fs)/(self.sfreq/2.),
@@ -110,7 +107,7 @@ class LSLViewer():
 
         self.low = 10000
         self.high = 0
-        
+
     def compute_value(self):
         data_f1 = filtfilt(self.bf1, self.af1, self.data, axis=0)
         data_f2 = filtfilt(self.bf2, self.af2, self.data, axis=0)
@@ -120,32 +117,32 @@ class LSLViewer():
 
         return v2 / v1
 
-        
+
     def update_plot(self):
         value = self.compute_value()
 
         if self.value is None:
             self.value = value
-        
+
         self.value = 0.8 * self.value + 0.2 * value
-        
+
         self.low = min(self.low, self.value)
         self.high = max(self.high, self.value)
-        
+
         rect = self.rects.get_children()[0]
         rect.set_height(self.value)
-                
+
         self.axes.set_ylim([self.low, self.high])
         self.fig.canvas.draw()
         plt.pause(0.01)
 
-        
+
     def update_data_and_plot(self):
         k = 0
         while self.started:
             samples, timestamps = self.inlet.pull_chunk(timeout=1.0,
                                                         max_samples=buf)
-            
+
             if timestamps:
                 self.data = np.vstack([self.data, samples])
                 if self.dejitter:
@@ -158,9 +155,9 @@ class LSLViewer():
                 self.data = self.data[-self.n_samples:]
                 self.times = self.times[-self.n_samples:]
 
-                
+
                 k += 1
-                
+
                 if k >= self.display_every:
                     self.update_plot()
                     k = 0
@@ -205,7 +202,3 @@ lslv.start()
 
 plt.show()
 lslv.stop()
-
-
-
-
