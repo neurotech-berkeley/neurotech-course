@@ -2,7 +2,5 @@ pygame
 numpy
 scipy
 matplotlib
-pylsl
 pandas
-scikit-learn
 seaborn
