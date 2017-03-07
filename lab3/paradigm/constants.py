@@ -27,9 +27,9 @@ anna_grayblue = 45,74,108
 
 background_color = black
 
-
 if platform.system() == 'Windows':
    wallclock = time.clock
 else:
    wallclock = time.time
+
 
