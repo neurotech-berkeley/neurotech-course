@@ -3,7 +3,10 @@
 
 from pylsl import StreamInfo, StreamOutlet
 import numpy as np
-from builtins import input
+try:
+   input = raw_input
+except NameError:
+   pass
 
 info = StreamInfo('Ganglion_EEG', 'EEG', 4, 200, 'float32',
                   'Ganglion_123456789')
