@@ -26,15 +26,14 @@ dark_gray = 20,20,20
 space_x = 100
 space_y = 100
 
-rect_width = (width - space_x*3)/2.0
-rect_height = (height - space_y *3)/2.0
-rect_xs = [space_x, space_x*2+rect_width, space_x, space_x*2+rect_width]
-rect_ys = [space_y, space_y, space_y*2+rect_height, space_y*2+rect_height]
+rect_width = width - space_x*2
+rect_height = height - space_y*2
+rect_xs = space_x
+rect_ys = space_y
 
-freqs = [10, 14, 17, 20]
-stimuli = [0, 0, 0, 0]
-wait_times = [0,0,0,0]
-
+freq = 10
+stimulus = 0
+wait_time = 0
 
 
 if fullscreen_on:
@@ -61,14 +60,15 @@ def check_for_escape():
 def draw_stimuli():
     screen.fill(black)
 
-    for s, x, y in zip(stimuli, rect_xs, rect_ys):
-        if s == 0:
-            col = black
-        else:
-            col = white
+    s, x, y = stimulus, rect_xs, rect_ys
 
-        rect = ((x, y), (rect_width, rect_height))
-        screen.fill(col, rect)
+    if s == 0:
+        col = black
+    else:
+        col = white
+
+    rect = ((x, y), (rect_width, rect_height))
+    screen.fill(col, rect)
 
     pygame.display.flip()
 
@@ -81,14 +81,13 @@ while True:
 
     draw_stimuli()
 
-    for i in range(len(stimuli)):
-        wait = wait_times[i]
-        if wait <= 1e-5:
-            stimuli[i] = 1 - stimuli[i]
-            wait_times[i] = 1.0/freqs[i]
+    
+    if wait_time <= 1e-5:
+        stimulus = 1 - stimulus
+        wait_time = 1.0/freq
 
     to_wait = 0.005
     time.sleep(to_wait)
-    for i in range(len(stimuli)):
-        wait_times[i] -= time.time() - t
+    wait_time -= time.time() - t
     
+
