@@ -90,3 +90,6 @@ ENV/
 
 ## node stuff
 node_modules
+
+# stray data
+*.csv
