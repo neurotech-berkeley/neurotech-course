@@ -1,4 +1,4 @@
-# Lab 4: Neurofeedback
+# Lab 4: SSVEP
 
 ### Introduction
 In this lab, we will record EEG while trying to remember words, as well as later recognizing these same words among others. Hopefully, we'll be able to see the event related potentials corresponding to remembered vs not-remembered words, and possibly recognized vs not recognized words.
