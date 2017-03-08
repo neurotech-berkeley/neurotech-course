@@ -5,6 +5,10 @@ import platform
 import time
 from pygame.locals import *
 
+freq = 20
+stimulus = 0
+wait_time = 0
+
 fullscreen_on = False
 
 size = 1280,800
@@ -30,10 +34,6 @@ rect_width = width - space_x*2
 rect_height = height - space_y*2
 rect_xs = space_x
 rect_ys = space_y
-
-freq = 10
-stimulus = 0
-wait_time = 0
 
 
 if fullscreen_on:
