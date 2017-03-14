@@ -116,9 +116,7 @@ def text_slide(text, duration=20):
 def focus_slide(duration=20):
     return text_slide('+', duration)
 
-fname = '../data/data_stroop_myo_{}.csv'.format(int(time.time()))
-if len(sys.argv) >= 2:
-    fname = sys.argv[1]
+condname = sys.argv[1]
 
 # collector = CSVCollector(fname=fname)
 # collector.tag('start')
@@ -153,7 +151,7 @@ pygame.mouse.set_visible(False)
 # low, medium, hard
 # speed 0.5, 1.0, 2.0
 
-trial_duration = 10
+trial_duration = 20
 focus_duration = 5
 num_repeats = 2
 
@@ -161,36 +159,32 @@ num_repeats = 2
 # focus_duration = 1
 # num_repeats = 1
 
-conditions = [
-    # ('relax', None, None), ('move', None, None),
-    ('low', 1.1, True), ('medium', 1.1, False), ('hard', 1.8, False)
-]
+conditions = {
+    'easy': ('easy', 1.1, True),
+    'medium': ('medium', 1.1, False),
+    'hard': ('hard', 1.8, False)
+}
 
-conds = conditions * num_repeats
-random.shuffle(conds)
+
+conds = [conditions[condname]]
+    # collector.tag('focus')
 
 for cond_name, speed, congruent in conds:
-    # collector.tag('focus')
     x = focus_slide(focus_duration)
     if not x:
         break
-    
+
     if speed is None:
         # collector.tag(cond_name)
         x = text_slide(cond_name, trial_duration)
     else:
         # collector.tag(cond_name)
         x = stroop(congruent, speed, trial_duration)
-
     # check_collection()
-        
+
     if not x:
         break
-    # print(cond_name)
-    # time.sleep(1)
-    # time.sleep(trial_duration)
-# stroop()
-# collector.stop()
+
 pygame.quit()
 os._exit(0)
 
