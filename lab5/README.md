@@ -20,5 +20,11 @@ pip install -r requirements.txt
 - Have participant sit in chair in front of monitor
 - Connect to the ganglion and stream data: `node ganglion-lsl.js`
 - Run lsl-viewer to check connections and stream: `python lsl-viewer.py`
-- Run SSVEP stimulus: `python stimulus.py`
+- Run SSVEP stimulus: `python stimulus_one.py`
+- Record data: `python lsl-record.py -f data/data_20hz.csv`
+- Change the frequency of stimulus (edit `freq = 20` in stimulus_one.py to some other frequency)
+- Record a few more
+
+- Look at the data by opening the notebook!
+
 
