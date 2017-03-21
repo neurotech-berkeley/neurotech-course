@@ -23,9 +23,11 @@ pip install -r requirements.txt
 - Connect to the ganglion and stream data: `cd recording; node ganglion-lsl.js`
 - Run lsl-viewer to check connections and stream: `python recording/lsl-viewer.py`
 - Test that movie playing works: `python paradigm/test_movie.py videos/sintel_trailer.mpg`
-- Start movie: `python paradigm/play_tag_movie.py videos/sintel_trailer.mpg`
+- Start movie (but don't press enter yet!): `python paradigm/play_tag_movie.py videos/sintel_trailer.mpg`
 - Record data (replace "name" with your name, and "movie" with "sintel" or "bunny"): 
   `python recording/lsl-record.py -f data/data_movie_name_1.csv`
+- Press enter on movie to really start movie
+- Stop recording data by pressing Control-C in the `lsl-record.py` script
 
 ### Analysis
 
