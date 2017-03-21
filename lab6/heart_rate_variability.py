@@ -124,7 +124,7 @@ class LSLViewer():
         rr = np.diff(rises)/self.sfreq
         print(1/np.mean(rr), rr)
         
-        return 60.0/np.mean(rr)
+        return np.std(rr)
 
 
     def update_plot(self):
@@ -144,7 +144,7 @@ class LSLViewer():
         rect = self.rects.get_children()[0]
         rect.set_height(self.value)
 
-        self.axes[1].set_ylim([0, 240])
+        self.axes[1].set_ylim([self.low,self.high])
         # self.fig.canvas.draw()
         # plt.pause(0.01)
 
