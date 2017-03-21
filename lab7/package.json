@@ -1,0 +1,16 @@
+{
+  "name": "lab3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ganglion-lsl.js",
+  "dependencies": {
+    "openbci-ganglion": "^0.4.3",
+    "python-shell": "^0.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "GPL-3.0"
+}
