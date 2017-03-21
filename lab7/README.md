@@ -20,7 +20,6 @@ pip install -r requirements.txt
 
 
 - Attach electrodes to participant's head, 2 on the frontal cortex (on forehead) and 2 on temporal lobe (right above the ears). 
-- Have participant sit in chair in front of monitor
 - Connect to the ganglion and stream data: `cd recording; node ganglion-lsl.js`
 - Run lsl-viewer to check connections and stream: `python recording/lsl-viewer.py`
 - Test that movie playing works: `python paradigm/test_movie.py videos/sintel_trailer.mpg`
