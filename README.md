@@ -11,8 +11,8 @@ The planned labs are as follows:
 - Lab 2: Sensory extension
 - [Lab 3: Detecting event-related potentials](lab3)
 - [Lab 4: Neurofeedback](lab4)
-- Lab 5: Steady-state visually evoked potentials
-- Lab 6: Detecting stress using biosignals
+- [Lab 5: Steady-state visually evoked potentials](lab5)
+- [Lab 6: Detecting stress using biosignals](lab6)
 - Lab 7: Cross-brain correlations, reward using event-related potentials
 - Lab 8: Detecting arm movements neck tension from EMG
 - Lab 9: Detecting stages of sleep using EEG
