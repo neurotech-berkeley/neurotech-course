@@ -33,3 +33,5 @@ pip install -r requirements.txt
 - Open `analysis/cross_brain_correlation.ipynb`
 - Replace the filenames at the beginning with your filenames
 - Run it and see the correlations!
+
+(If you couldn't successfully collect data, I have put in some example files that I collected that you can try analyzing as well, inside data)
