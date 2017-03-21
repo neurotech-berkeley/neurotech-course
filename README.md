@@ -1,8 +1,8 @@
 # Intro to Brain Computer Interfaces
 
-These are the course materials for [Intro to Brain Computer Interfaces](http://neurotechberkeley.org/course/info.html).
+These are the course materials for [Intro to Brain Computer Interfaces](http://neurotechberkeley.org/course_info.html).
 
-The course consists of labs and lectures. We will host all the labs here. The lectures will be linked on the [course website](http://neurotechberkeley.org/course/schedule.html).
+The course consists of labs and lectures. We will host all the labs here. The lectures will be linked on the [course website](http://neurotechberkeley.org/course_schedule.html).
 
 ### Labs
 The planned labs are as follows:
