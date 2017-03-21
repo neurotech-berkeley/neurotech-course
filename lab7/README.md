@@ -1,11 +1,14 @@
 # Lab 7: Measuring attention using cross-brain correlations 
 
 ### Introduction
-In this lab, we will record EEG while trying to remember words, as well as later recognizing these same words among others. Hopefully, we'll be able to see the event related potentials corresponding to remembered vs not-remembered words, and possibly recognized vs not recognized words.
+In this lab, we will measure correlations across brains, as a measure of
+attention.  The idea is that, the more people pay attention to a stimulus, the
+more their brain is driven by a stimulus and not their internal thoughts. If it
+is driven by the stimulus, then brain signals across different sessions should be similar.
 
 ### Setup
 
-First, install the libraries:
+First, install the libraries (there are new python dependencies this time!):
 ``` bash
 npm install
 pip install -r requirements.txt
@@ -16,11 +19,15 @@ pip install -r requirements.txt
 ### Stimulus Presentation + Recording
 
 
-- Attach electrodes to participant's head, preferably in visual cortex on the back of the head. 
+- Attach electrodes to participant's head, 2 on the frontal cortex (on forehead) and 2 on temporal lobe (right above the ears). 
 - Have participant sit in chair in front of monitor
-- Connect to the ganglion and stream data: `node ganglion-lsl.js`
-- Run lsl-viewer to check connections and stream: `python lsl-viewer.py`
-- Record data: `python lsl-record.py`
-- Run stress test: `python stroop_test.py medium` (can change easy to "hard" or "easy" for more or less stress)
+- Connect to the ganglion and stream data: `cd recording; node ganglion-lsl.js`
+- Run lsl-viewer to check connections and stream: `python recording/lsl-viewer.py`
+- Test that movie playing works: `python paradigm/test_movie.py videos/sintel_trailer.mpg`
+- Start movie: `python paradigm/play_tag_movie.py videos/sintel_trailer.mpg`
+- Record data (replace "name" with your name, and "movie" with "sintel" or "bunny"): 
+  `python recording/lsl-record.py -f data/data_movie_name_1.csv`
+
+### Analysis
 
 

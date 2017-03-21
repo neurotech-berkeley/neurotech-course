@@ -21,6 +21,6 @@ pip install -r requirements.txt
 - Connect to the ganglion and stream data: `node ganglion-lsl.js`
 - Run lsl-viewer to check connections and stream: `python lsl-viewer.py`
 - Record data: `python lsl-record.py`
-- Run stress test: `python stroop_test.py medium` (can change easy to "hard" or "easy" for more or less stress)
+- Run stress test: `python stroop_test.py medium` (can change "medium" to "hard" or "easy" for more or less stress)
 
 
