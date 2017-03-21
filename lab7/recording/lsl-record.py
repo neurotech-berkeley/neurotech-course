@@ -5,7 +5,7 @@ import pandas as pd
 from time import time, strftime, gmtime
 from optparse import OptionParser
 from pylsl import StreamInlet, resolve_byprop
-from sklearn.linear_model import LinearRegression
+# from sklearn.linear_model import LinearRegression
 
 default_fname = ("../data/data_%s.csv" % strftime("%Y-%m-%d-%H.%M.%S", gmtime()))
 parser = OptionParser()
@@ -77,12 +77,12 @@ while (time() - t_init) < options.duration:
 res = np.concatenate(res, axis=0)
 timestamps = np.array(timestamps)
 
-if dejitter:
-    y = timestamps
-    X = np.atleast_2d(np.arange(0, len(y))).T
-    lr = LinearRegression()
-    lr.fit(X, y)
-    timestamps = lr.predict(X)
+# if dejitter:
+#     y = timestamps
+#     X = np.atleast_2d(np.arange(0, len(y))).T
+#     lr = LinearRegression()
+#     lr.fit(X, y)
+#     timestamps = lr.predict(X)
 
 res = np.c_[timestamps, res]
 data = pd.DataFrame(data=res, columns=['timestamps'] + ch_names)
