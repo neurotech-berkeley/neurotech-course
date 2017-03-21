@@ -1,4 +1,4 @@
-# Lab 5: SSVEP
+# Lab 6: Stress
 
 ### Introduction
 In this lab, we will record EEG while trying to remember words, as well as later recognizing these same words among others. Hopefully, we'll be able to see the event related potentials corresponding to remembered vs not-remembered words, and possibly recognized vs not recognized words.
@@ -20,5 +20,7 @@ pip install -r requirements.txt
 - Have participant sit in chair in front of monitor
 - Connect to the ganglion and stream data: `node ganglion-lsl.js`
 - Run lsl-viewer to check connections and stream: `python lsl-viewer.py`
-- Run SSVEP stimulus: `python stimulus.py`
+- Record data: `python lsl-record.py`
+- Run stress test: `python stroop_test.py medium` (can change easy to "hard" or "easy" for more or less stress)
+
 
