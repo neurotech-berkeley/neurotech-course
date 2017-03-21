@@ -1,4 +1,4 @@
-# Lab 7: Measuring attention using cross-brain correlations 
+# Lab 7: Measuring attention using cross-brain correlations
 
 ### Introduction
 In this lab, we will measure correlations across brains, as a measure of
@@ -18,17 +18,18 @@ pip install -r requirements.txt
 
 ### Stimulus Presentation + Recording
 
-
-- Attach electrodes to participant's head, 2 on the frontal cortex (on forehead) and 2 on temporal lobe (right above the ears). 
+- Attach electrodes to participant's head, 2 on the frontal cortex (on forehead) and 2 on temporal lobe (right above the ears).
 - Connect to the ganglion and stream data: `cd recording; node ganglion-lsl.js`
 - Run lsl-viewer to check connections and stream: `python recording/lsl-viewer.py`
 - Test that movie playing works: `python paradigm/test_movie.py videos/sintel_trailer.mpg`
 - Start movie (but don't press enter yet!): `python paradigm/play_tag_movie.py videos/sintel_trailer.mpg`
-- Record data (replace "name" with your name, and "movie" with "sintel" or "bunny"): 
+- Record data (replace "name" with your name, and "movie" with "sintel" or "bunny"):
   `python recording/lsl-record.py -f data/data_movie_name_1.csv`
 - Press enter on movie to really start movie
 - Stop recording data by pressing Control-C in the `lsl-record.py` script
 
 ### Analysis
 
-
+- Open `analysis/cross_brain_correlation.ipynb`
+- Replace the filenames at the beginning with your filenames
+- Run it and see the correlations!
