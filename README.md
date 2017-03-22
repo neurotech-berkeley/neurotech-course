@@ -13,6 +13,6 @@ The planned labs are as follows:
 - [Lab 4: Neurofeedback](lab4)
 - [Lab 5: Steady-state visually evoked potentials](lab5)
 - [Lab 6: Detecting stress using biosignals](lab6)
-- Lab 7: Cross-brain correlations, reward using event-related potentials
+- [Lab 7: Measuring attention using cross-brain correlations](lab7)
 - Lab 8: Detecting arm movements neck tension from EMG
 - Lab 9: Detecting stages of sleep using EEG
