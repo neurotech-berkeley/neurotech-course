@@ -22,5 +22,5 @@ outlet.push_sample([-1], time.time())
 _ = input('\nStart recording and press Enter to start')
 
 outlet.push_sample([1], time.time())
-subprocess.run(['mpv',sys.argv[1]])
+subprocess.call(['mpv',sys.argv[1]])
 outlet.push_sample([2], time.time())
