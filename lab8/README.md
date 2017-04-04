@@ -35,6 +35,7 @@ Using the device:
 - When using the device, make sure to have it off (pulse amplitude at 0) before connecting. 
 - There are 2 electrodes, that you place across the muscle you want to stimulate (make sure to follow warnings above when choosing muscle!)
 - You can use the settings below to test pain relief and muscle contraction
+- After connecting the electrodes and setting settings, slowly increase the pulse amplitude. Reduce amplitude if it feels too strong!
 
 - Settings recommended by manual for pain relief:
     - Pulse rate: 70-120 Hz
