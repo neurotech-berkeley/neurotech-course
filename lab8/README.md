@@ -1,4 +1,4 @@
-# Lab 8: Detecting and controlling hand movements
+# Lab 8: Detecting and controlling muscle movements
 
 ### Introduction
 In this lab, we will try recording EMG signals from various muscles, and then try to stimulate these muscles with a TENS device.
