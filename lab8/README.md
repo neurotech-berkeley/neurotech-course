@@ -7,7 +7,7 @@ In this lab, we will try recording EMG signals from various muscles, and then tr
 
 We will restrict ourselves to the OpenBCI GUI to visualize EMG signals, as they are clearly visible without much processing.
 
-To setup the Ganglion to record EMG, you can then follow the [Ganglion getting started guide](http://docs.openbci.com/Tutorials/02-Ganglion_Getting%20Started_Guide#ganglion-getting-started-guide-connect-for-emg) .
+To setup the Ganglion to record EMG, you can follow the [Ganglion getting started guide](http://docs.openbci.com/Tutorials/02-Ganglion_Getting%20Started_Guide#ganglion-getting-started-guide-connect-for-emg) .
 
 - Try connecting it to your arm at first, following the tutorial
 - Try other areas! Can you detect biceps? Fingers? Leg? Feet? 
