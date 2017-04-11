@@ -15,4 +15,4 @@ The planned labs are as follows:
 - [Lab 6: Detecting stress using biosignals](lab6)
 - [Lab 7: Measuring attention using cross-brain correlations](lab7)
 - [Lab 8: Detecting and controlling muscle movements](lab8)
-- Lab 9: Characterizing EEG responses to smell
+- [Lab 9: Characterizing EEG responses to smell](lab9)

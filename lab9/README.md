@@ -1,7 +1,7 @@
 # Lab 9: Measuring brain response to different smells
 
 ### Introduction
-In this lab, we will record the different brain responses to various smells. 
+In this lab, we will record the different brain responses to various smells. We're particularly interested in alpha (8-13Hz) and beta waves (13-20Hz), but other ones may show up as well. 
 
 ### Setup
 
