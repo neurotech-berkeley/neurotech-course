@@ -1,8 +1,6 @@
 # Intro to Brain Computer Interfaces
 
-These are the course materials for [Intro to Brain Computer Interfaces](http://neurotechberkeley.org/bci-decal/).
-
-The course consists of labs and lectures. We will host all the labs here. The lectures will be linked on the [course website](http://neurotechberkeley.org/bci-decal/).
+This course is under reconstruction -- slides will be available publicly soon.
 
 ### Labs
 The planned labs are as follows:
