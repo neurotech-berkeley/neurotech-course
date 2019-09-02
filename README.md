@@ -7,17 +7,21 @@ This course is under reconstruction -- slides will be available publicly as they
 * We are assuming course takers do not have access to an EEG headset such as the Muse or an OpenBCI. This assumption allows us to scale the course as a UC Berkeley DeCal as well as a MOOC on edX and Coursera.
 * We will present demos with EEG headsets and make code/specs available to course takers.
 * Homework/labs will be delivered through Jupyter notebooks.
-* Potential topics include:
-    * EEG
-    * Signal processing
-    * EMG
-    * Elementary neuroscience
-    * MRI/fMRI
-    * Using Python and numpy/sklearn/matplotlib
 
-### Lectures
+### Lectures (tentative outline)
 
 - [Lecture 1: The Big Picture]()
+- [Lecture 2: Neuroscience]()
+- [Lecture 3: Brain Imaging Techniques]()
+- [Lecture 4: Elementary Signal Processing]()
+- [Lecture 5: ]()
+- [Lecture 6: ]()
+- [Lecture 7: ]()
+- [Lecture 8: ]()
+- [Lecture 9: ]()
+- [Lecture 10: ]()
+- [Lecture 11: ]()
+- [Lecture 12: ]()
 
 ### Labs
 
