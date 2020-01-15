@@ -1,16 +1,23 @@
 # Introduction to Neurotechnology
 
-This course is under reconstruction -- slides will be available publicly as they are completed.
+Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Education branch of [Neurotechnology @ Berkeley](https://neurotech.berkeley.edu).
 
-### Notes
+[Syllabus](https://docs.google.com/document/d/1RNY-i1McHvnUqbty7TlWxkoekqouRAe-HznR-ZPzUc0/edit?usp=sharing)
 
-* We are assuming course takers do not have access to an EEG headset such as the Muse or an OpenBCI. This assumption allows us to scale the course as a UC Berkeley DeCal as well as a MOOC on edX and Coursera.
-* We will present demos with EEG headsets and make code/specs available to course takers.
-* Homework/labs will be delivered through Jupyter notebooks.
+### Meet the Team
 
-### Lectures (tentative outline)
+- [Deven Navani](https://linkedin.com/in/devennavani), co-head of Education // instructor
+- [Amy Wang](https://www.linkedin.com/in/amywang58/), co-head of Education // instructor
+- [Haya Halabieh](https://www.linkedin.com/in/haya-halabieh-145941187/), instructor
+- Izzy Baldacci, instructor
+- [Cuong Luu](https://www.linkedin.com/in/cuong-luu/), content
+- Sooyeon Oh, content
+- [Julie Nemerson](https://www.linkedin.com/in/julie-nemerson/), content
+- [Milan Filo](https://www.linkedin.com/in/milan-f-b2a861110/), content 
 
-- [Lecture 1: The Big Picture]()
+### Lectures
+
+- [Lecture 1: The Big Picture](https://docs.google.com/presentation/d/18uCmsE90HPA1_8xNekUP94K5ErNxOS5hffchtTHXlLg/edit?usp=sharing)
 - [Lecture 2: Neuroscience]()
 - [Lecture 3: Brain Imaging Techniques]()
 - [Lecture 4: Elementary Signal Processing]()
@@ -34,3 +41,9 @@ This course is under reconstruction -- slides will be available publicly as they
 - [Lab 7: Measuring attention using cross-brain correlations](lab7)
 - [Lab 8: Detecting and controlling muscle movements](lab8)
 - [Lab 9: Characterizing EEG responses to smell](lab9)
+
+### Notes
+
+* We are assuming course takers do not have access to an EEG headset such as the Muse or an OpenBCI. This assumption allows us to scale the course as a UC Berkeley DeCal as well as a MOOC on edX and Coursera.
+* We will present demos with EEG headsets and make code/specs available to course takers.
+* Homework/labs will be delivered through Jupyter notebooks.
