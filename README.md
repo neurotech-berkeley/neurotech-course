@@ -2,6 +2,10 @@
 
 Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Education branch of [Neurotechnology @ Berkeley](https://neurotech.berkeley.edu).
 
+![](neurotech.gif)
+
+### Syllabus
+
 [Syllabus](https://docs.google.com/document/d/1RNY-i1McHvnUqbty7TlWxkoekqouRAe-HznR-ZPzUc0/edit?usp=sharing)
 
 ### Meet the Team
