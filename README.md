@@ -1,4 +1,4 @@
-# Introduction to Neurotechnology
+# CS 198-96: Introduction to Neurotechnology
 
 Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Education branch of [Neurotechnology @ Berkeley](https://neurotech.berkeley.edu).
 
