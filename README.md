@@ -22,9 +22,9 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 ### Lectures
 
 - [Lecture 1: The Big Picture](https://docs.google.com/presentation/d/18uCmsE90HPA1_8xNekUP94K5ErNxOS5hffchtTHXlLg/edit?usp=sharing)
-- [Lecture 2: Neuroscience]()
-- [Lecture 3: Brain Imaging Techniques]()
-- [Lecture 4: Elementary Signal Processing]()
+- [Lecture 2: Macro Neuroscience](https://docs.google.com/presentation/d/1qf8d9TegBbjmpbiEGmMCCupMV_R1GzlB0OUxH956umc/edit?usp=sharing)
+- [Lecture 3: ]()
+- [Lecture 4: ]()
 - [Lecture 5: ]()
 - [Lecture 6: ]()
 - [Lecture 7: ]()
@@ -34,7 +34,7 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 - [Lecture 11: ]()
 - [Lecture 12: ]()
 
-### Labs
+<!-- ### Labs
 
 - [Lab 1: Getting started with EEG](http://docs.openbci.com/Tutorials/02-Ganglion_Getting%20Started_Guide)
 - Lab 2: Sensory extension
@@ -44,7 +44,7 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 - [Lab 6: Detecting stress using biosignals](lab6)
 - [Lab 7: Measuring attention using cross-brain correlations](lab7)
 - [Lab 8: Detecting and controlling muscle movements](lab8)
-- [Lab 9: Characterizing EEG responses to smell](lab9)
+- [Lab 9: Characterizing EEG responses to smell](lab9) -->
 
 ### Notes
 
