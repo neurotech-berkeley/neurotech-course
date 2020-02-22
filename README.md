@@ -21,7 +21,7 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 
 ### Lectures
 
-- [Lecture 1: The Big Picture](https://docs.google.com/presentation/d/18uCmsE90HPA1_8xNekUP94K5ErNxOS5hffchtTHXlLg/edit?usp=sharing)
+- [Lecture 1: The Big Picture](https://docs.google.com/presentation/d/18uCmsE90HPA1_8xNekUP94K5ErNxOS5hffchtTHXlLg/edit?usp=sharing) [(webcast)](https://www.youtube.com/watch?v=JWnHp_lqkKY) 
 - [Lecture 2: Macro Neuroscience](https://docs.google.com/presentation/d/1qf8d9TegBbjmpbiEGmMCCupMV_R1GzlB0OUxH956umc/edit?usp=sharing)
 - [Lecture 3: Micro Neuroscience](https://docs.google.com/presentation/d/1v1lizm3QJqGZx0vuf2hYUl0MvI9G786ZRvUn52kutPk/edit?usp=sharing)
 - [Lecture 4: ]()
