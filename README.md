@@ -15,7 +15,7 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 - [Haya Halabieh](https://www.linkedin.com/in/haya-halabieh-145941187/), instructor
 - Izzy Baldacci, instructor
 - [Cuong Luu](https://www.linkedin.com/in/cuong-luu/), content
-- Sooyeon Oh, content
+- [Sooyeon Oh](https://www.linkedin.com/in/sooyeonoh/), content
 - [Julie Nemerson](https://www.linkedin.com/in/julie-nemerson/), content
 - [Milan Filo](https://www.linkedin.com/in/milan-f-b2a861110/), content 
 
@@ -24,7 +24,7 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 - [Lecture 1: The Big Picture](https://docs.google.com/presentation/d/18uCmsE90HPA1_8xNekUP94K5ErNxOS5hffchtTHXlLg/edit?usp=sharing) [(webcast)](https://www.youtube.com/watch?v=JWnHp_lqkKY) 
 - [Lecture 2: Macro Neuroscience](https://docs.google.com/presentation/d/1qf8d9TegBbjmpbiEGmMCCupMV_R1GzlB0OUxH956umc/edit?usp=sharing) [(webcast)](https://youtu.be/IY02T5WzCpw)
 - [Lecture 3: Micro Neuroscience](https://docs.google.com/presentation/d/1v1lizm3QJqGZx0vuf2hYUl0MvI9G786ZRvUn52kutPk/edit?usp=sharing) [(webcast)]()
-- [Lecture 4: ]()
+- [Lecture 4: Brain Imaging Techniques](https://docs.google.com/presentation/d/1Xx8Ssu3ZhAqTyweJZJMXOBT8urqL5kGnCppBIxzM3SM/edit?usp=sharing) [(webcast)]()
 - [Lecture 5: ]()
 - [Lecture 6: ]()
 - [Lecture 7: ]()
