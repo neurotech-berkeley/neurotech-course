@@ -93,3 +93,5 @@ node_modules
 
 # stray data
 *.csv
+
+.gitignore
