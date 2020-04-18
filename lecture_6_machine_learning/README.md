@@ -4,7 +4,7 @@
 
 ### 1. Neuron Spike Sorting with PCA and K-means
 
-Assignment [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]()
+Assignment [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16rNTp9GMfNvQ66Tssxt7fYLx3X1kl9lc)
 
 Solutions [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1BVON5DVgs-J5wf60dGvyQ1wSLzH-kTVL)
 
