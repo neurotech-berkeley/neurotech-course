@@ -95,3 +95,5 @@ node_modules
 *.csv
 
 .gitignore
+
+.DS_Store
