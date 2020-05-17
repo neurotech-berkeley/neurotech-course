@@ -21,18 +21,18 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 
 ### Lectures
 
-- [Lecture 1: The Big Picture](https://docs.google.com/presentation/d/18uCmsE90HPA1_8xNekUP94K5ErNxOS5hffchtTHXlLg/edit?usp=sharing) [(webcast)](https://www.youtube.com/watch?v=JWnHp_lqkKY) 
-- [Lecture 2: Macro Neuroscience](https://docs.google.com/presentation/d/1qf8d9TegBbjmpbiEGmMCCupMV_R1GzlB0OUxH956umc/edit?usp=sharing) [(webcast)](https://youtu.be/IY02T5WzCpw)
-- [Lecture 3: Micro Neuroscience](https://docs.google.com/presentation/d/1v1lizm3QJqGZx0vuf2hYUl0MvI9G786ZRvUn52kutPk/edit?usp=sharing) [(webcast)](https://youtu.be/FT_gtKjSTQQ)
-- [Lecture 4: Brain Imaging Techniques](https://docs.google.com/presentation/d/1Xx8Ssu3ZhAqTyweJZJMXOBT8urqL5kGnCppBIxzM3SM/edit?usp=sharing) [(webcast)](https://youtu.be/rsP_Obn7JKU)
+- Lecture 1: The Big Picture [(slides)](https://docs.google.com/presentation/d/18uCmsE90HPA1_8xNekUP94K5ErNxOS5hffchtTHXlLg/edit?usp=sharing) [(webcast)](https://www.youtube.com/watch?v=JWnHp_lqkKY) 
+- Lecture 2: Macro Neuroscience [(slides)](https://docs.google.com/presentation/d/1qf8d9TegBbjmpbiEGmMCCupMV_R1GzlB0OUxH956umc/edit?usp=sharing) [(webcast)](https://youtu.be/IY02T5WzCpw)
+- Lecture 3: Micro Neuroscience [(slides)](https://docs.google.com/presentation/d/1v1lizm3QJqGZx0vuf2hYUl0MvI9G786ZRvUn52kutPk/edit?usp=sharing) [(webcast)](https://youtu.be/FT_gtKjSTQQ)
+- Lecture 4: Brain Imaging Techniques [(slides)](https://docs.google.com/presentation/d/1Xx8Ssu3ZhAqTyweJZJMXOBT8urqL5kGnCppBIxzM3SM/edit?usp=sharing) [(webcast)](https://youtu.be/rsP_Obn7JKU)
 - Lecture 5: Introduction to Signal Processing [(webcast)](https://youtu.be/gURGgMwAoDM)
-- [Lecture 6: ]()
-- [Lecture 7: ]()
-- [Lecture 8: ]()
-- [Lecture 9: ]()
-- [Lecture 10: ]()
-- [Lecture 11: ]()
-- [Lecture 12: ]()
+- Lecture 6: Introduction to Machine Learning
+- Lecture 7:
+- Lecture 8: 
+- Lecture 9: 
+- Lecture 10: Clinical Applications [(slides)](https://docs.google.com/presentation/d/1I5xrWjetjQesf7aAzMJwKvL0yQG4yI6IxYkVmpix4oM/edit?usp=sharing) [(webcast)](https://youtu.be/OmwgQUC69mc)
+- Lecture 11: Neuroethics [(slides)](https://docs.google.com/presentation/d/1Q0yCELR0dzq3aViE_IOU7gFfSs_s-NZVFGVRqwjsBjk/edit?usp=sharing) [(webcast)](https://youtu.be/ftGm5tj6QMg)
+- Lecture 12: ()
 
 <!-- ### Labs
 
