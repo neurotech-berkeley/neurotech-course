@@ -1,4 +1,4 @@
-# CS 198-96: Introduction to Neurotechnology (Spring 2020)
+# CS 198-96: Introduction to Neurotechnology (Fall 2020)
 
 Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Education branch of [Neurotechnology @ Berkeley](https://neurotech.berkeley.edu).
 
@@ -6,20 +6,21 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 
 ### Syllabus
 
-[Syllabus](https://docs.google.com/document/d/1RNY-i1McHvnUqbty7TlWxkoekqouRAe-HznR-ZPzUc0/edit?usp=sharing)
+[Syllabus](https://docs.google.com/document/d/1kKtiD6YWtURetEiy9AScyJoVWdasE68gR3KoMo3y4c4/edit?usp=sharing)
 
 ### Meet the Team
 
-- [Deven Navani](https://linkedin.com/in/devennavani), co-head of Education // instructor
-- [Amy Wang](https://www.linkedin.com/in/amywang58/), co-head of Education // instructor
-- [Haya Halabieh](https://www.linkedin.com/in/haya-halabieh-145941187/), instructor
-- Izzy Baldacci, instructor
-- [Cuong Luu](https://www.linkedin.com/in/cuong-luu/), content
+- [Deven Navani](https://linkedin.com/in/devennavani), VP of Education 
+- [Amy Wang](https://www.linkedin.com/in/amywang58/), co-head of Education
+- [Izzy Baldacci], co-head of Education
+- [Haya Halabieh](https://www.linkedin.com/in/haya-halabieh-145941187/), content
 - [Sooyeon Oh](https://www.linkedin.com/in/sooyeonoh/), content
 - [Julie Nemerson](https://www.linkedin.com/in/julie-nemerson/), content
 - [Milan Filo](https://www.linkedin.com/in/milan-f-b2a861110/), content 
 
-### Lectures
+
+
+### Spring 2020 Lectures
 
 - Lecture 1: The Big Picture [(slides)](https://docs.google.com/presentation/d/18uCmsE90HPA1_8xNekUP94K5ErNxOS5hffchtTHXlLg/edit?usp=sharing) [(webcast)](https://www.youtube.com/watch?v=JWnHp_lqkKY) 
 - Lecture 2: Macro Neuroscience [(slides)](https://docs.google.com/presentation/d/1qf8d9TegBbjmpbiEGmMCCupMV_R1GzlB0OUxH956umc/edit?usp=sharing) [(webcast)](https://youtu.be/IY02T5WzCpw)
