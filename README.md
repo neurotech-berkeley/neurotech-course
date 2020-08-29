@@ -16,9 +16,7 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 - [Haya Halabieh](https://www.linkedin.com/in/haya-halabieh-145941187/), content
 - [Sooyeon Oh](https://www.linkedin.com/in/sooyeonoh/), content
 - [Julie Nemerson](https://www.linkedin.com/in/julie-nemerson/), content
-- [Milan Filo](https://www.linkedin.com/in/milan-f-b2a861110/), content 
-
-
+- [Milan Filo](https://www.linkedin.com/in/milan-f-b2a861110/), content
 
 ### Spring 2020 Lectures
 
@@ -46,9 +44,3 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 - [Lab 7: Measuring attention using cross-brain correlations](lab7)
 - [Lab 8: Detecting and controlling muscle movements](lab8)
 - [Lab 9: Characterizing EEG responses to smell](lab9) -->
-
-### Notes
-
-* We are assuming course takers do not have access to an EEG headset such as the Muse or an OpenBCI. This assumption allows us to scale the course as a UC Berkeley DeCal as well as a MOOC on edX and Coursera.
-* We will present demos with EEG headsets and make code/specs available to course takers.
-* Homework/labs will be delivered through Jupyter notebooks.
