@@ -35,9 +35,17 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 
 ### Fall 2020 Lectures
 
-Module #1: The Big Picture
-    * Section #1: What is Neurotechnology?
-        - Lesson #1: Technology that lets you understand the brain
+| Module #1: The Big Picture | 
+| ----------- | 
+| Section #1: What is Neurotechnology?
+* Lesson #1: HI | 
+| - Lesson #1: HI |
+
+
+
+* Section #1: What is Neurotechnology?
+    - Lesson #1: Technology that lets you understand the brain
+    - Lesson #2: Technology that 
 
 <!-- ### Labs
 
