@@ -35,9 +35,12 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 
 ### Fall 2020 Lectures
 
-| Module #1: The Big Picture | 
+| <h2>Module #1: The Big Picture</h2> | 
 | ------------- |
-| <h3>Section #1: What is Neurotechnology?</h3><ul><li>Lesson #1: Technology that lets you understand the brain</li><li>Lesson #2: Technology that lets you do stuff to the brain</li></ul>| 
+| <h3>Section #1: What is neurotechnology?</h3><ul><li>Lesson #1: Technology that lets you understand the brain</li><li>Lesson #2: Technology that lets you do stuff to the brain</li><li>Lesson #3: Technology that lets you do stuff with the brain</li></ul>| 
+| <h3>Section #2: Why neurotechnology?</h3><ul><li>Lesson #4: Clinical Medicine</li><li>Lesson #5: Cognitive Neuroscience</li><li>Lesson #6: Device Control</li><li>Lesson #7: Enhancement</li></ul>|
+| <h3>Section #3: Technologies and Key Players</h3><ul><li>Lesson #8: Electroencephalography (EEG)</li><li>Lesson #9: Electromyography (EMG)</li><li>Lesson #10: Magnetic Imaging</li><li>Lesson #11: Invasive Approaches</li></ul>|
+| <h3>Section #4: Challenges</h3><ul><li>Lesson #12: Bandwidth</li><li>Lesson #13: Implantation</li><li>Lesson #14: Neuroscience knowledge gaps</li><li>Lesson #15: Public Skepticism and Ethics</li></ul>|
 
 <!-- ### Labs
 
