@@ -12,7 +12,7 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 
 - [Deven Navani](https://linkedin.com/in/devennavani), VP of Education 
 - [Amy Wang](https://www.linkedin.com/in/amywang58/), co-head of Education
-- [Izzy Baldacci], co-head of Education
+- [Izzy Baldacci](https://www.linkedin.com/in/isabella-baldacci-74694519a/), co-head of Education
 - [Haya Halabieh](https://www.linkedin.com/in/haya-halabieh-145941187/), content
 - [Sooyeon Oh](https://www.linkedin.com/in/sooyeonoh/), content
 - [Julie Nemerson](https://www.linkedin.com/in/julie-nemerson/), content
@@ -32,6 +32,12 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 - Lecture 10: Clinical Applications [(slides)](https://docs.google.com/presentation/d/1I5xrWjetjQesf7aAzMJwKvL0yQG4yI6IxYkVmpix4oM/edit?usp=sharing) [(webcast)](https://youtu.be/OmwgQUC69mc)
 - Lecture 11: Neuroethics [(slides)](https://docs.google.com/presentation/d/1Q0yCELR0dzq3aViE_IOU7gFfSs_s-NZVFGVRqwjsBjk/edit?usp=sharing) [(webcast)](https://youtu.be/ftGm5tj6QMg)
 - Lecture 12: Current State of the Field [(webcast)](https://youtu.be/T9HmHf7EPms)
+
+### Fall 2020 Lectures
+
+Module #1: The Big Picture
+    * Section #1: What is Neurotechnology?
+        - Lesson #1: Technology that lets you understand the brain
 
 <!-- ### Labs
 
