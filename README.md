@@ -35,20 +35,47 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 <li>Lesson 7: Human Augmentation <a href="https://docs.google.com/presentation/d/1CBYZXTknupmbC8VKwkMfRtCNJ7JAw1PdzKNDsTI-O-U/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=UrrycI5DGkw&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=5">(video)</a></li>
 </ul>
 <h3>Section 3: Technologies and Key Players</h3>
-<ul><li>Lesson 8: Electroencephalography (EEG)</li><li>Lesson 9: Electromyography (EMG)</li><li>Lesson 10: Magnetic Imaging</li><li>Lesson 11: Invasive Approaches</li></ul>
+<ul>
+<li>Lesson 8: Electroencephalography (EEG)</li>
+<li>Lesson 9: Electromyography (EMG)</li>
+<li>Lesson 10: Magnetic Imaging</li>
+<li>Lesson 11: Invasive Approaches</li>
+</ul>
 <h3>Section 4: Challenges</h3>
-<ul><li>Lesson #12: Bandwidth</li><li>Lesson 13: Implantation</li><li>Lesson 14: Neuroscience knowledge gaps</li><li>Lesson 15: Public Skepticism and Ethics</li></ul>
+<ul>
+<li>Lesson #12: Bandwidth</li>
+<li>Lesson 13: Implantation</li>
+<li>Lesson 14: Neuroscience knowledge gaps</li>
+<li>Lesson 15: Public Skepticism and Ethics</li>
+</ul>
 
 <h2>Module 2: Neuroscience</h2>
 <h3>Section 1: Neuroscience Systems</h3>
-<ul><li>Lesson 1: The Nervous System</li><li>Lesson 2: Technology that lets you do stuff to the brain</li><li>Lesson 3: Technology that lets you do stuff with the brain</li></ul>
-<h3>Section 2: Action Potentials</h3>
-<ul><li>Lesson 4: Clinical Medicine</li><li>Lesson 5: Cognitive Neuroscience</li><li>Lesson 6: Device Control</li><li>Lesson 7: Enhancement</li></ul>
+<ul>
+<li>Lesson 1: The Nervous System <a href="https://docs.google.com/presentation/d/1CKzW9Mj-kWbzKJVgzViOwFL_UwfNdXtFZjDgROIE3oo/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=p30UG9Ei2z4&list=PL1ukmPI3TksMzQzxg4SHfppN00YALaDVk&index=1">(video)</a></li>
+<li>Lesson 2: The brain <a href="https://docs.google.com/presentation/d/1bg83i_cZ5th_ZAH2uA5FEpdIdqMPsxhxOiZYIyFBJko/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=25dpUD-D3W0&list=PL1ukmPI3TksMzQzxg4SHfppN00YALaDVk&index=2">(video)</a></li>
+<li>Lesson 3: Biological Neural Networks <a href="https://docs.google.com/presentation/d/1gxE1jxJO06sMXNMfd08tDVFOW2-CK7pL1vXYObarA2g/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=rscWT5ALoDU&list=PL1ukmPI3TksMzQzxg4SHfppN00YALaDVk&index=3">(video)</a></li>
+<li>Lesson 4: Microstructures of the Brain <a href="https://docs.google.com/presentation/d/1SCq0CNX2CIugPBB0KlNmOqnhjZ8DaKq2e1zHx2BQq5w/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=KYcU339pSdI&list=PL1ukmPI3TksMzQzxg4SHfppN00YALaDVk&index=4">(video)</a></li>
+</ul>
+<h3>Section 2: The Action Potential</h3>
+<ul>
+<li>Lesson 5: An Introduction <a href="https://docs.google.com/presentation/d/1OSk4neLIBU_KIqSaoicQDViWIhvazFbjpsmts1fOIUY/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=C0Kimw7QGqA&list=PL1ukmPI3TksMzQzxg4SHfppN00YALaDVk&index=5">(video)</a></li>
+<li>Lesson 6: Electricity and the Brain <a href="https://docs.google.com/presentation/d/16WwNiVcuzSc5oTqPHXybShfruTZVz51A8Vq-QD7NXvk/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=ZL-Oh0fJSZs&list=PL1ukmPI3TksMzQzxg4SHfppN00YALaDVk&index=6">(video)</a></li>
+<li>Lesson 7: Electrochemical Gradients <a href="https://docs.google.com/presentation/d/1Iij4Au4TxOcUjg0vqhNBC63XjKRoCJX2d-f3KlqUBW8/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=5U3-v4oQPL0&list=PL1ukmPI3TksMzQzxg4SHfppN00YALaDVk&index=7">(video)</a></li>
+<li>Lesson 8: Synaptic Transmission <a href="https://docs.google.com/presentation/d/1ehgiAJMH0-RdZaMCDU-yxjh0sn-sEBgSgLeJkc4TPqo/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=fEmRaCe3PAM&list=PL1ukmPI3TksMzQzxg4SHfppN00YALaDVk&index=8">(video)</a></li>
+</ul>
 <h3>Section 3: Sensory Systems</h3>
-<ul><li>Lesson 8: Electroencephalography (EEG)</li><li>Lesson 9: Electromyography (EMG)</li><li>Lesson 10: Magnetic Imaging</li><li>Lesson 11: Invasive Approaches</li></ul>
+<ul>
+<li>Lesson 9: The Auditory System <a href="https://docs.google.com/presentation/d/1rN7bj9MHzjfSiA2R5kTF1zH74ezz9RhCN6gTFuZ5XoA/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=6P3oTWAJcpk&list=PL1ukmPI3TksMzQzxg4SHfppN00YALaDVk&index=9">(video)</a></li>
+<li>Lesson 10: The Visual System <a href="https://docs.google.com/presentation/d/1sRyADjcXivcN6RTCjUv643qIYFwkDDslB8FZKLUc0pQ/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=fJKhxPNicz0&list=PL1ukmPI3TksMzQzxg4SHfppN00YALaDVk&index=10">(video)</a></li>
+<li>Lesson 11: The Tactile System <a href="https://docs.google.com/presentation/d/12C8leVaD6G99xOEN92nNpjjWclrB39paEhWOP0euddo/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=0j8_oGT4PM0&list=PL1ukmPI3TksMzQzxg4SHfppN00YALaDVk&index=11">(video)</a></li>
+</ul>
 <h3>Section 4: Motor Systems</h3>
-<ul><li>Lesson #12: Bandwidth</li><li>Lesson 13: Implantation</li><li>Lesson 14: Neuroscience knowledge gaps</li><li>Lesson 15: Public Skepticism and Ethics</li></ul>
-
+<ul>
+<li>Lesson 12: Cortical Motor System and Action Planning <a href="https://docs.google.com/presentation/d/16-Ro2h6gk3CpHGjhFtVUHlUQfGrdCehABsO6SCKxxPY/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=Wm1z6951kgk&list=PL1ukmPI3TksMzQzxg4SHfppN00YALaDVk&index=12">(video)</a></li>
+<li>Lesson 13: Motor Unit Types <a href="https://docs.google.com/presentation/d/19R8Kee-U1ySjmUKnF1FeskkAjfn0mpG_Q9KlraDjRyg/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=ta0O91uYAso&list=PL1ukmPI3TksMzQzxg4SHfppN00YALaDVk&index=13">(video)</a></li>
+<li>Lesson 14: Motor Unit Properties <a href="https://docs.google.com/presentation/d/1ltadiNnLDY5C74gAUQAFxmxZQqIasB1oT36rbF8HCko/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=4-y0NklOtbo&list=PL1ukmPI3TksMzQzxg4SHfppN00YALaDVk&index=14">(video)</a></li>
+</ul>
 
 ### Spring 2020 Lectures
 
