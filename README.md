@@ -23,7 +23,7 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 <h2>Module 1: The Big Picture</h2>
 <h3>Section 1: What is neurotechnology?</h3>
 <ul>
-<li>Lesson 1: Neuroimaging [(slides)](https://docs.google.com/presentation/d/1FLcFBmpc2SduGUlvaqIIVNP73g3SqXxtOQfYx4R1_zc/edit?usp=sharing) [(video)](https://www.youtube.com/watch?v=9dqbn927S3Q&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=1)</li>
+<li>Lesson 1: Neuroimaging</li> [(slides)](https://docs.google.com/presentation/d/1FLcFBmpc2SduGUlvaqIIVNP73g3SqXxtOQfYx4R1_zc/edit?usp=sharing) [(video)](https://www.youtube.com/watch?v=9dqbn927S3Q&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=1)
 <li>Lesson 2: Neuromodulation/Neurostimulation</li>
 <li>Lesson 3: Brain-Computer Interfaces</li>
 </ul>
