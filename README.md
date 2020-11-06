@@ -2,7 +2,7 @@
 
 Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Education branch of [Neurotechnology @ Berkeley](https://neurotech.berkeley.edu).
 
-![](neurotech.gif)
+<!-- ![](neurotech.gif) -->
 
 <!-- ### Syllabus
 
@@ -77,6 +77,25 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 <li>Lesson 14: Motor Unit Properties <a href="https://docs.google.com/presentation/d/1ltadiNnLDY5C74gAUQAFxmxZQqIasB1oT36rbF8HCko/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=4-y0NklOtbo&list=PL1ukmPI3TksMzQzxg4SHfppN00YALaDVk&index=14">(video)</a></li>
 </ul>
 
+<h2>Module 3: Working with fMRI Data</h2>
+<h3>Section 1: Overview/Biological Basis of fMRI</h3>
+<ul>
+<li>Lesson 1: Brain Activity <a href="https://docs.google.com/presentation/d/1-OZ4QzExx3xUoVR6MmxxenqSEJzgoDVzDKryy2WasFM/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=JjVluic-xsg&list=PL1ukmPI3TksOE_hAotuZs_rjQnwFsKVTK&index=1">(video)</a></li>
+<li>Lesson 2: Visualizing Brain Activity <a href="https://docs.google.com/presentation/d/1tthza5zAGhKMiBn6s0U82VDV27NZK-s5_U6pFGrDPZQ/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=GnZ2K_tkyI0&list=PL1ukmPI3TksOE_hAotuZs_rjQnwFsKVTK&index=2">(video)</a></li>
+<li>Lesson 3: Interpreting fMRI <a href="https://docs.google.com/presentation/d/1Gj7YF-f_V7ndLYQUsJLVgwO7c56sZsSmkz2AuknijOQ/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=YZXB5EdMh3I&list=PL1ukmPI3TksOE_hAotuZs_rjQnwFsKVTK&index=3">(video)</a></li>
+<li>Lesson 4: Applications <a href="https://docs.google.com/presentation/d/17IpWVwQww8hF5yCsPg3nu-H65ktNipr3bJMEWTsjpBA/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=yShZTUeUYf4&list=PL1ukmPI3TksOE_hAotuZs_rjQnwFsKVTK&index=4">(video)</a></li>
+</ul>
+<h3>Section 2: Intro to fMRI Data</h3>
+<ul>
+<li>Lesson 5: What is fMRI Data? <a href="https://docs.google.com/presentation/d/11PA44_Sr6MPpW6MCvqyladqttZkEU3ar_lpqsIJUxIM/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=4SEybkSY21U&list=PL1ukmPI3TksOE_hAotuZs_rjQnwFsKVTK&index=5">(video)</a></li>
+<li>Lessons 6: fMRI Dataset Pre-processing and Visualization <a href="https://docs.google.com/presentation/d/1nec5qOeJ_maIO4CA98AgHZ0Dg2xfm6rOpo38v8kiqI8/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=YajaZ3R81GY&list=PL1ukmPI3TksOE_hAotuZs_rjQnwFsKVTK&index=6">(video)</a></li>
+</ul>
+<h3>Section 3: Analyzing fMRI Data</h3>
+<ul>
+<li>Lesson 9: Signals Primer</li>
+<li>Lesson 10: Single Voxel Modeling</li>
+</ul>
+
 ### Spring 2020 Lectures
 
 - Lecture 1: The Big Picture [(slides)](https://docs.google.com/presentation/d/18uCmsE90HPA1_8xNekUP94K5ErNxOS5hffchtTHXlLg/edit?usp=sharing) [(webcast)](https://www.youtube.com/watch?v=JWnHp_lqkKY) 
@@ -84,10 +103,6 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 - Lecture 3: Micro Neuroscience [(slides)](https://docs.google.com/presentation/d/1v1lizm3QJqGZx0vuf2hYUl0MvI9G786ZRvUn52kutPk/edit?usp=sharing) [(webcast)](https://youtu.be/FT_gtKjSTQQ)
 - Lecture 4: Brain Imaging Techniques [(slides)](https://docs.google.com/presentation/d/1Xx8Ssu3ZhAqTyweJZJMXOBT8urqL5kGnCppBIxzM3SM/edit?usp=sharing) [(webcast)](https://youtu.be/rsP_Obn7JKU)
 - Lecture 5: Introduction to Signal Processing [(webcast)](https://youtu.be/gURGgMwAoDM)
-- Lecture 6: Introduction to Machine Learning
-- Lecture 7:
-- Lecture 8: 
-- Lecture 9: 
 - Lecture 10: Clinical Applications [(slides)](https://docs.google.com/presentation/d/1I5xrWjetjQesf7aAzMJwKvL0yQG4yI6IxYkVmpix4oM/edit?usp=sharing) [(webcast)](https://youtu.be/OmwgQUC69mc)
 - Lecture 11: Neuroethics [(slides)](https://docs.google.com/presentation/d/1Q0yCELR0dzq3aViE_IOU7gFfSs_s-NZVFGVRqwjsBjk/edit?usp=sharing) [(webcast)](https://youtu.be/ftGm5tj6QMg)
 - Lecture 12: Current State of the Field [(webcast)](https://youtu.be/T9HmHf7EPms)
