@@ -96,6 +96,22 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 <li>Lesson 10: Single Voxel Modeling</li>
 </ul>
 
+<h2>Module 4: Working with EEG Data</h2>
+<h3>Section 1: What is EEG?</h3>
+<ul>
+<li>Lesson 1: EEG Introduction <a href="https://docs.google.com/presentation/d/126x2u3lR0dD9emaBR3q6ARCg0u_PvjRvZFbtRgttHlE/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=JYpoyuGwoo8&list=PL1ukmPI3TksNK8S_CtURjdNevOTahQUZy&index=2">(video)</a></li>
+<li>Lesson 2: Brain Waves <a href="https://docs.google.com/presentation/d/126x2u3lR0dD9emaBR3q6ARCg0u_PvjRvZFbtRgttHlE/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=FNBscvYnVxc&list=PL1ukmPI3TksNK8S_CtURjdNevOTahQUZy&index=3">(video)</a></li>
+<li>Lesson 3: EEG Terminologies <a href="https://docs.google.com/presentation/d/126x2u3lR0dD9emaBR3q6ARCg0u_PvjRvZFbtRgttHlE/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=E0j4qKWhNik&list=PL1ukmPI3TksNK8S_CtURjdNevOTahQUZy&index=4">(video)</a></li>
+<li>Lesson 4: Types of EEG Data Analysis <a href="https://docs.google.com/presentation/d/126x2u3lR0dD9emaBR3q6ARCg0u_PvjRvZFbtRgttHlE/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=56VdNTRPSXc&list=PL1ukmPI3TksNK8S_CtURjdNevOTahQUZy&index=5">(video)</a></li>
+</ul>
+<h3>Section 2: EEG Signal Processing</h3>
+<ul>
+<li>Lesson 5: EEG Pre-processing Part 1 <a href="https://docs.google.com/presentation/d/1DpxxfgoNkLl5DT9ocDEdmOUultxEsmf3qUyFiJr_DUw/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=ggk6jRV_U40&list=PL1ukmPI3TksNK8S_CtURjdNevOTahQUZy&index=6">(video)</a></li>
+<li>Lessons 6: EEG Pre-processing Part 2 <a href="https://docs.google.com/presentation/d/1DpxxfgoNkLl5DT9ocDEdmOUultxEsmf3qUyFiJr_DUw/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=NNTrRwBcTI8&list=PL1ukmPI3TksNK8S_CtURjdNevOTahQUZy&index=7">(video)</a></li>
+<li>Lessons 7: Fourier Transform <a href="https://docs.google.com/presentation/d/1DpxxfgoNkLl5DT9ocDEdmOUultxEsmf3qUyFiJr_DUw/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=i5gnmaQM8DA&list=PL1ukmPI3TksNK8S_CtURjdNevOTahQUZy&index=8">(video)</a></li>
+<li>Lessons 8: Motor Imagery and PSD <a href="https://docs.google.com/presentation/d/1DpxxfgoNkLl5DT9ocDEdmOUultxEsmf3qUyFiJr_DUw/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=seIJdCa3k-Y&list=PL1ukmPI3TksNK8S_CtURjdNevOTahQUZy&index=9">(video)</a></li>
+</ul>
+
 ### Spring 2020 Lectures
 
 - Lecture 1: The Big Picture [(slides)](https://docs.google.com/presentation/d/18uCmsE90HPA1_8xNekUP94K5ErNxOS5hffchtTHXlLg/edit?usp=sharing) [(webcast)](https://www.youtube.com/watch?v=JWnHp_lqkKY) 
