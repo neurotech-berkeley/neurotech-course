@@ -17,6 +17,38 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 - [Sooyeon Oh](https://www.linkedin.com/in/sooyeonoh/), content
 - [Julie Nemerson](https://www.linkedin.com/in/julie-nemerson/), content
 - [Milan Filo](https://www.linkedin.com/in/milan-f-b2a861110/), content
+- [Abhinav Gundrala](), content
+- [Czarinah Micah Rodriguez](), content
+
+<h2>Module 1: The Big Picture</h2>
+<h3>Section 1: What is neurotechnology?</h3>
+<ul>
+<li>Lesson 1: Neuroimaging [(slides)](https://docs.google.com/presentation/d/1FLcFBmpc2SduGUlvaqIIVNP73g3SqXxtOQfYx4R1_zc/edit?usp=sharing) [(video)](https://www.youtube.com/watch?v=9dqbn927S3Q&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=1)</li>
+<li>Lesson 2: Neuromodulation/Neurostimulation</li>
+<li>Lesson 3: Brain-Computer Interfaces</li>
+</ul>
+<h3>Section 2: Why neurotechnology?</h3>
+<ul>
+<li>Lesson 4: Treat Neurological Disorders [(slides)](https://docs.google.com/presentation/d/1BfXXm0zDFGwfjLA8FDBKrkVQtKBiui-YOsA0MVTPLUw/edit?usp=sharing) [(video)](https://www.youtube.com/watch?v=hbYmDV1qEO8&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=2)</li>
+<li>Lesson 5: Understand the Brain [(slides)](https://docs.google.com/presentation/d/1qwlHM70bX7x82NIF32sRuV5GQbhZ473k9PvD69Mo6xk/edit?usp=sharing) [(video)](https://www.youtube.com/watch?v=V9uGlDig3f4&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=3)</li>
+<li>Lesson 6: Device Control [(slides)](https://docs.google.com/presentation/d/1IUP46SJQ0g8ckVMw2GMInaHannvMkQEU2Ny7gA75Cm0/edit?usp=sharing) [(video)](https://www.youtube.com/watch?v=Sk5JtpEU67I&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=4)</li>
+<li>Lesson 7: Human Augmentation [(slides)](https://docs.google.com/presentation/d/1CBYZXTknupmbC8VKwkMfRtCNJ7JAw1PdzKNDsTI-O-U/edit?usp=sharing) [(video)](https://www.youtube.com/watch?v=UrrycI5DGkw&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=5)</li>
+</ul>
+<h3>Section 3: Technologies and Key Players</h3>
+<ul><li>Lesson 8: Electroencephalography (EEG)</li><li>Lesson 9: Electromyography (EMG)</li><li>Lesson 10: Magnetic Imaging</li><li>Lesson 11: Invasive Approaches</li></ul>
+<h3>Section 4: Challenges</h3>
+<ul><li>Lesson #12: Bandwidth</li><li>Lesson 13: Implantation</li><li>Lesson 14: Neuroscience knowledge gaps</li><li>Lesson 15: Public Skepticism and Ethics</li></ul>
+
+<h2>Module 2: Neuroscience</h2>
+<h3>Section 1: Neuroscience Systems</h3>
+<ul><li>Lesson 1: The Nervous System</li><li>Lesson 2: Technology that lets you do stuff to the brain</li><li>Lesson 3: Technology that lets you do stuff with the brain</li></ul>
+<h3>Section 2: Action Potentials</h3>
+<ul><li>Lesson 4: Clinical Medicine</li><li>Lesson 5: Cognitive Neuroscience</li><li>Lesson 6: Device Control</li><li>Lesson 7: Enhancement</li></ul>
+<h3>Section 3: Sensory Systems</h3>
+<ul><li>Lesson 8: Electroencephalography (EEG)</li><li>Lesson 9: Electromyography (EMG)</li><li>Lesson 10: Magnetic Imaging</li><li>Lesson 11: Invasive Approaches</li></ul>
+<h3>Section 4: Motor Systems</h3>
+<ul><li>Lesson #12: Bandwidth</li><li>Lesson 13: Implantation</li><li>Lesson 14: Neuroscience knowledge gaps</li><li>Lesson 15: Public Skepticism and Ethics</li></ul>
+
 
 ### Spring 2020 Lectures
 
@@ -32,16 +64,6 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 - Lecture 10: Clinical Applications [(slides)](https://docs.google.com/presentation/d/1I5xrWjetjQesf7aAzMJwKvL0yQG4yI6IxYkVmpix4oM/edit?usp=sharing) [(webcast)](https://youtu.be/OmwgQUC69mc)
 - Lecture 11: Neuroethics [(slides)](https://docs.google.com/presentation/d/1Q0yCELR0dzq3aViE_IOU7gFfSs_s-NZVFGVRqwjsBjk/edit?usp=sharing) [(webcast)](https://youtu.be/ftGm5tj6QMg)
 - Lecture 12: Current State of the Field [(webcast)](https://youtu.be/T9HmHf7EPms)
-
-<h2>Module #1: The Big Picture</h2>
-<h3>Section #1: What is neurotechnology?</h3>
-<ul><li>Lesson #1: Technology that lets you understand the brain</li><li>Lesson #2: Technology that lets you do stuff to the brain</li><li>Lesson #3: Technology that lets you do stuff with the brain</li></ul>
-<h3>Section #2: Why neurotechnology?</h3>
-<ul><li>Lesson #4: Clinical Medicine</li><li>Lesson #5: Cognitive Neuroscience</li><li>Lesson #6: Device Control</li><li>Lesson #7: Enhancement</li></ul>
-<h3>Section #3: Technologies and Key Players</h3>
-<ul><li>Lesson #8: Electroencephalography (EEG)</li><li>Lesson #9: Electromyography (EMG)</li><li>Lesson #10: Magnetic Imaging</li><li>Lesson #11: Invasive Approaches</li></ul>
-<h3>Section #4: Challenges</h3>
-<ul><li>Lesson #12: Bandwidth</li><li>Lesson #13: Implantation</li><li>Lesson #14: Neuroscience knowledge gaps</li><li>Lesson #15: Public Skepticism and Ethics</li></ul>
 
 <!-- ### Labs
 
