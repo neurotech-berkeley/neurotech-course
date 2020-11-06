@@ -23,16 +23,16 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 <h2>Module 1: The Big Picture</h2>
 <h3>Section 1: What is neurotechnology?</h3>
 <ul>
-<li>Lesson 1: Neuroimaging</li> [(slides)](https://docs.google.com/presentation/d/1FLcFBmpc2SduGUlvaqIIVNP73g3SqXxtOQfYx4R1_zc/edit?usp=sharing) [(video)](https://www.youtube.com/watch?v=9dqbn927S3Q&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=1)
+<li>Lesson 1: Neuroimaging <a href="https://docs.google.com/presentation/d/1FLcFBmpc2SduGUlvaqIIVNP73g3SqXxtOQfYx4R1_zc/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=9dqbn927S3Q&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=1">(video)</a></li>
 <li>Lesson 2: Neuromodulation/Neurostimulation</li>
 <li>Lesson 3: Brain-Computer Interfaces</li>
 </ul>
 <h3>Section 2: Why neurotechnology?</h3>
 <ul>
-<li>Lesson 4: Treat Neurological Disorders [(slides)](https://docs.google.com/presentation/d/1BfXXm0zDFGwfjLA8FDBKrkVQtKBiui-YOsA0MVTPLUw/edit?usp=sharing) [(video)](https://www.youtube.com/watch?v=hbYmDV1qEO8&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=2)</li>
-<li>Lesson 5: Understand the Brain [(slides)](https://docs.google.com/presentation/d/1qwlHM70bX7x82NIF32sRuV5GQbhZ473k9PvD69Mo6xk/edit?usp=sharing) [(video)](https://www.youtube.com/watch?v=V9uGlDig3f4&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=3)</li>
-<li>Lesson 6: Device Control [(slides)](https://docs.google.com/presentation/d/1IUP46SJQ0g8ckVMw2GMInaHannvMkQEU2Ny7gA75Cm0/edit?usp=sharing) [(video)](https://www.youtube.com/watch?v=Sk5JtpEU67I&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=4)</li>
-<li>Lesson 7: Human Augmentation [(slides)](https://docs.google.com/presentation/d/1CBYZXTknupmbC8VKwkMfRtCNJ7JAw1PdzKNDsTI-O-U/edit?usp=sharing) [(video)](https://www.youtube.com/watch?v=UrrycI5DGkw&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=5)</li>
+<li>Lesson 4: Treat Neurological Disorders <a href="https://docs.google.com/presentation/d/1BfXXm0zDFGwfjLA8FDBKrkVQtKBiui-YOsA0MVTPLUw/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=hbYmDV1qEO8&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=2">(video)</a></li>
+<li>Lesson 5: Understand the Brain <a href="https://docs.google.com/presentation/d/1qwlHM70bX7x82NIF32sRuV5GQbhZ473k9PvD69Mo6xk/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=V9uGlDig3f4&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=3">(video)</a></li>
+<li>Lesson 6: Device Control <a href="https://docs.google.com/presentation/d/1IUP46SJQ0g8ckVMw2GMInaHannvMkQEU2Ny7gA75Cm0/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=Sk5JtpEU67I&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=4">(video)</a></li>
+<li>Lesson 7: Human Augmentation <a href="https://docs.google.com/presentation/d/1CBYZXTknupmbC8VKwkMfRtCNJ7JAw1PdzKNDsTI-O-U/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=UrrycI5DGkw&list=PL1ukmPI3TksPBugenpeLF10jjRXR0upOy&index=5">(video)</a></li>
 </ul>
 <h3>Section 3: Technologies and Key Players</h3>
 <ul><li>Lesson 8: Electroencephalography (EEG)</li><li>Lesson 9: Electromyography (EMG)</li><li>Lesson 10: Magnetic Imaging</li><li>Lesson 11: Invasive Approaches</li></ul>
