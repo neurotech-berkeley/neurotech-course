@@ -87,13 +87,32 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 </ul>
 <h3>Section 2: Intro to fMRI Data</h3>
 <ul>
-<li>Lesson 5: What is fMRI Data? <a href="https://docs.google.com/presentation/d/11PA44_Sr6MPpW6MCvqyladqttZkEU3ar_lpqsIJUxIM/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=4SEybkSY21U&list=PL1ukmPI3TksOE_hAotuZs_rjQnwFsKVTK&index=5">(video)</a></li>
-<li>Lessons 6: fMRI Dataset Pre-processing and Visualization <a href="https://docs.google.com/presentation/d/1nec5qOeJ_maIO4CA98AgHZ0Dg2xfm6rOpo38v8kiqI8/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=YajaZ3R81GY&list=PL1ukmPI3TksOE_hAotuZs_rjQnwFsKVTK&index=6">(video)</a></li>
+<li>Lesson 5: What is fMRI Data? <a href="https://docs.google.com/presentation/d/11PA44_Sr6MPpW6MCvqyladqttZkEU3ar_lpqsIJUxIM/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=4SEybkSY21U&list=PL1ukmPI3TksOE_hAotuZs_rjQnwFsKVTK&index=5">(video)</a> 
+<ul>  
+  <li>Lesson 5 Notebook: <a href="https://colab.research.google.com/drive/1CsEhFTNMTvhTL0x-2CUqFLFgxE6e0XXJ#forceEdit=true&sandboxMode=true">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></li>  
+  </ul></li>
+<li>Lessons 6: fMRI Dataset Pre-processing and Visualization <a href="https://docs.google.com/presentation/d/1nec5qOeJ_maIO4CA98AgHZ0Dg2xfm6rOpo38v8kiqI8/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=YajaZ3R81GY&list=PL1ukmPI3TksOE_hAotuZs_rjQnwFsKVTK&index=6">(video)</a>
+<ul>  
+  <li>Lesson 6.1 Notebook: <a href="https://colab.research.google.com/drive/1kGmTcau7nZEWP6bEU39DE_tpzDdxs4pT#forceEdit=true&sandboxMode=true">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></li>  
+  <li>Lesson 6.2 Notebook: <a href="https://colab.research.google.com/drive/1SIOQ6rHAOS4UQes-GWViy0GoM1_rETLH#forceEdit=true&sandboxMode=true">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></li> 
+</ul></li>
 </ul>
+
 <h3>Section 3: Analyzing fMRI Data</h3>
 <ul>
-<li>Lesson 9: Signals Primer</li>
-<li>Lesson 10: Single Voxel Modeling</li>
+<li>Lesson 9: Signals Primer
+<ul>  
+  <li>Lesson 9 Notebook: <a href="https://colab.research.google.com/drive/1YtLArXzBTHqZb5hsXnoyLJ7WCd8r72go#forceEdit=true&sandboxMode=true">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></li>  
+</ul></li>
+<li>Lesson 10: Single Voxel Modeling
+<ul>  
+  <li>Lesson 10 Notebook: <a href="https://colab.research.google.com/drive/1Fn1KTIlcVG_BwlYojnvg0gbx_DekiRuU#forceEdit=true&sandboxMode=true">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></li>  
+</ul></li>
 </ul>
 
 <h2>Module 4: Working with EEG Data</h2>
