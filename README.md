@@ -130,6 +130,15 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 <li>Lessons 7: Fourier Transform <a href="https://docs.google.com/presentation/d/1DpxxfgoNkLl5DT9ocDEdmOUultxEsmf3qUyFiJr_DUw/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=i5gnmaQM8DA&list=PL1ukmPI3TksNK8S_CtURjdNevOTahQUZy&index=8">(video)</a></li>
 <li>Lessons 8: Motor Imagery and PSD <a href="https://docs.google.com/presentation/d/1DpxxfgoNkLl5DT9ocDEdmOUultxEsmf3qUyFiJr_DUw/edit?usp=sharing">(slides)</a> <a href="https://www.youtube.com/watch?v=seIJdCa3k-Y&list=PL1ukmPI3TksNK8S_CtURjdNevOTahQUZy&index=9">(video)</a></li>
 </ul>
+<h3>Section 3: Data Analysis in Python</h3>
+<ul>
+<li>Lesson 9: EEG Tools and Datasets <a href="https://www.youtube.com/watch?v=Ivq7-fZ62vQ&list=PL1ukmPI3TksNK8S_CtURjdNevOTahQUZy&index=10">(video)</a></li>
+<li>Lesson 10: ERP Experiments <a href="https://www.youtube.com/watch?v=ANnxqmFBmls&list=PL1ukmPI3TksNK8S_CtURjdNevOTahQUZy&index=11">(video)</a>
+<ul>
+  <li>Lesson 9 & 10 Notebook: <a href="https://colab.research.google.com/drive/1CGDhmgra7D_q0oNL417H2HMXRpt1Bv5N?usp=sharing">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a></li>
+</ul></li>
+</ul>
 
 ### Spring 2020 Lectures
 
