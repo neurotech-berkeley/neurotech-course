@@ -8,7 +8,7 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 
 [Syllabus](https://docs.google.com/document/d/1kKtiD6YWtURetEiy9AScyJoVWdasE68gR3KoMo3y4c4/edit?usp=sharing) -->
 
-### Meet the Team
+<!-- ### Meet the Team
 
 - [Deven Navani](https://linkedin.com/in/devennavani), VP of Education 
 - [Amy Wang](https://www.linkedin.com/in/amywang58/), co-head of Education
@@ -18,7 +18,7 @@ Welcome to CS 198-96: Intro to Neurotechnology! This course is run by the Educat
 - [Julie Nemerson](https://www.linkedin.com/in/julie-nemerson/), content
 - [Milan Filo](https://www.linkedin.com/in/milan-f-b2a861110/), content
 - [Abhinav Gundrala](), content
-- [Czarinah Micah Rodriguez](), content
+- [Czarinah Micah Rodriguez](), content -->
 
 <h2>Module 1: The Big Picture</h2>
 <h3>Section 1: What is neurotechnology?</h3>
